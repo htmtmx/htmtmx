@@ -10,7 +10,10 @@ const Cesar = {
 }
 ```
 - 🔭 I’m currently working as a Front End Developer 🧑‍💻 at Daksha Group Inc
-- 🌱 I’m currently learning: <img src="https://skillicons.dev/icons?i=typescript,react,nextjs" />
+- 🌱 I’m currently learning: typescript, react, nextjs
+
+<h3 align="left">Languages and Tools:</h3>
+<img src="https://skillicons.dev/icons?i=anaconda,azure,css,django,docker,figma,git,github,gitlab,html,jest,js,linux,mysql,nextjs,nodejs,npm,opencv,php,postgres,postman,powershell,python,pytorch,react,sass,sklearn,tensorflow,typescript,ubuntu,vite,vscode,yarn" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=htmtmx" alt="htmtmx" /></a> </p>
 
