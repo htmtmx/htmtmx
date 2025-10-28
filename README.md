@@ -9,7 +9,7 @@ const Cesar = {
   hobbies: ['Culture Geek', 'Videogames', 'Motorcycles', 'Listen to Music', ]
 }
 ```
-- 🔭 I’m currently working as a Front End Developer 🧑‍💻 at Daksha Group Inc
+- 🔭 I’m currently working as a Full Stack Developer 🧑‍💻 at Muhami
 - 🌱 I’m currently learning: typescript, react, nextjs
 
 <h3 align="left">Languages and Tools:</h3>
